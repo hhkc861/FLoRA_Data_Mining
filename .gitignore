@@ -1,3 +1,5 @@
 data_raw/
 .venv/
 __pycache__/
+data_processed/
+*.pkl
